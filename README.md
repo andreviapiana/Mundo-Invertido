@@ -7,7 +7,7 @@ O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. P
 
 A página em formato desktop é vista na imagem abaixo:
 
-![RocketMovies - André Viapiana](https://user-images.githubusercontent.com/106932234/186273254-9768328e-9994-491a-9a05-707e0733edd1.png)
+![Mundo Invertido Semana Front-end](https://user-images.githubusercontent.com/106932234/186516758-863d2ca4-5db9-4712-8e72-65843f97cad3.png)
 
 O objetivo final foi atingido.
 
