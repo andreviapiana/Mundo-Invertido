@@ -5,7 +5,7 @@
 -------
 O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)?
 
-Este projeto se trata de uma página com a temática de Stranger Things, e que possuí um modo normal e um modo invertido. Assim como na série, ao inverter a página, ela se torna escura, e coisas estranhas acontecem nela. Imagens se invertem, textos se rotacionam, e a música de fundo também muda.
+Este projeto se trata de uma página com a temática de Stranger Things, e que possuí um modo normal e um modo invertido. Assim como na série, ao inverter a página, ela se torna escura e coisas estranhas acontecem nela. Imagens se invertem, textos se rotacionam, e a música de fundo também muda.
 O maior destaque de aprendizado foi a integração da página com o Banco de Dados Firebase. Isso mesmo! O formulário no final da página é realmente funcional, e os seus dados ficam armazenados no banco de dados.
 
 A página em formato desktop é vista na imagem abaixo:
